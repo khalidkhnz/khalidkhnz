@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="232" viewBox="0 0 440 232" role="img" aria-label="Windows 11 Portfolio — The OS you can visit"><title>Windows 11 Portfolio — The OS you can visit</title><style>
+.sans{font-family:'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,Inter,Ubuntu,Cantarell,'Helvetica Neue',Arial,sans-serif}
+.mono{font-family:ui-monospace,'Cascadia Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;white-space:pre}
+.fade{opacity:0;animation:fade .6s ease-out forwards}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
+</style>
+<defs>
+  <linearGradient id="k-win" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#151923"/><stop offset="1" stop-color="#0f1218"/>
+  </linearGradient>
+  <linearGradient id="k-edge" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#3a4254"/><stop offset=".5" stop-color="#232834"/><stop offset="1" stop-color="#2c3342"/>
+  </linearGradient>
+  <filter id="k-shadow" x="-20%" y="-20%" width="140%" height="160%">
+    <feGaussianBlur stdDeviation="14"/>
+  </filter>
+</defs>
+
+<rect x="6" y="6" width="428" height="220" rx="12" fill="url(#k-win)"/>
+<rect x="6.5" y="6.5" width="427" height="219" rx="11.5" fill="none" stroke="url(#k-edge)"/>
+<path d="M6 46h428" stroke="#262c38"/>
+<rect x="20" y="17" width="18" height="18" rx="5" fill="#60cdff" fill-opacity=".16" stroke="#60cdff" stroke-opacity=".5"/>
+<text x="29" y="30" text-anchor="middle" class="mono" font-size="9" font-weight="700" fill="#60cdff">⊞</text>
+<text x="48" y="31" class="sans" font-size="12.5" fill="#8a93a6">win11.app</text>
+<g stroke="#8a93a6" stroke-width="1.1" fill="none">
+  <path d="M316 26.5h10"/>
+  <rect x="358" y="21.5" width="10" height="10" rx="2"/>
+  <path d="M400 21.5l10 10M410 21.5l-10 10"/>
+</g>
+<text x="30" y="84" class="sans" font-size="21" font-weight="700" fill="#e8ebf1">Windows 11 Portfolio</text>
+<text x="30" y="104" class="mono" font-size="12" fill="#60cdff">The OS you can visit</text>
+<g transform="translate(398 70)" stroke="#5c6476" stroke-width="1.6" fill="none" stroke-linecap="round"><path d="M0 10L10 0M3 0h7v7"/></g>
+<text x="30" y="128" class="sans" font-size="13.5" fill="#8a93a6">Faux operating system portfolio with real window</text><text x="30" y="148" class="sans" font-size="13.5" fill="#8a93a6">management, a start menu and themable Windows, macOS</text><text x="30" y="168" class="sans" font-size="13.5" fill="#8a93a6">and Linux variants.</text>
+<rect x="30" y="186" width="67" height="23" rx="11.5" fill="#60cdff" fill-opacity=".10" stroke="#60cdff" stroke-opacity=".35"/>
+<text x="63.5" y="201.6" text-anchor="middle" class="mono" font-size="11.5" fill="#60cdff">Next.js</text><rect x="104" y="186" width="74" height="23" rx="11.5" fill="#60cdff" fill-opacity=".10" stroke="#60cdff" stroke-opacity=".35"/>
+<text x="141.0" y="201.6" text-anchor="middle" class="mono" font-size="11.5" fill="#60cdff">Tailwind</text><rect x="185" y="186" width="109" height="23" rx="11.5" fill="#60cdff" fill-opacity=".10" stroke="#60cdff" stroke-opacity=".35"/>
+<text x="239.5" y="201.6" text-anchor="middle" class="mono" font-size="11.5" fill="#60cdff">Framer Motion</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" role="img" aria-label="Contact Khalid"><title>Contact Khalid</title><style>
+.sans{font-family:'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,Inter,Ubuntu,Cantarell,'Helvetica Neue',Arial,sans-serif}
+.mono{font-family:ui-monospace,'Cascadia Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;white-space:pre}
+.fade{opacity:0;animation:fade .6s ease-out forwards}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
+</style>
+<defs>
+  <linearGradient id="c-win" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#151923"/><stop offset="1" stop-color="#0f1218"/>
+  </linearGradient>
+  <linearGradient id="c-edge" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#3a4254"/><stop offset=".5" stop-color="#232834"/><stop offset="1" stop-color="#2c3342"/>
+  </linearGradient>
+  <filter id="c-shadow" x="-20%" y="-20%" width="140%" height="160%">
+    <feGaussianBlur stdDeviation="14"/>
+  </filter>
+</defs>
+
+<rect x="10" y="10" width="880" height="150" rx="12" fill="url(#c-win)"/>
+<rect x="10.5" y="10.5" width="879" height="149" rx="11.5" fill="none" stroke="url(#c-edge)"/>
+<path d="M10 50h880" stroke="#262c38"/>
+<rect x="24" y="21" width="18" height="18" rx="5" fill="#60cdff" fill-opacity=".16" stroke="#60cdff" stroke-opacity=".5"/>
+<text x="33" y="34" text-anchor="middle" class="mono" font-size="9" font-weight="700" fill="#60cdff">@</text>
+<text x="52" y="35" class="sans" font-size="12.5" fill="#8a93a6">Contact — new message</text>
+<g stroke="#8a93a6" stroke-width="1.1" fill="none">
+  <path d="M772 30.5h10"/>
+  <rect x="814" y="25.5" width="10" height="10" rx="2"/>
+  <path d="M856 25.5l10 10M866 25.5l-10 10"/>
+</g>
+<text x="40" y="96" class="sans fade" font-size="24" font-weight="700" fill="#e8ebf1">Got a project, a role, or just want to say hi?</text>
+<text x="40" y="126" class="sans fade" font-size="15" fill="#8a93a6" style="animation-delay:.1s">Drop me a line. I reply within a day or two.</text>
+<g transform="translate(760 78)"><g class="fade" style="animation-delay:.2s">
+  <rect width="96" height="40" rx="8" fill="#60cdff"/>
+  <text x="48" y="25" text-anchor="middle" class="sans" font-size="14" font-weight="600" fill="#06121a">Send  ➤</text>
+</g></g>
+</svg>

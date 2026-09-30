@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="372" viewBox="0 0 900 372" role="img" aria-label="Tech stack: React, Next.js, TypeScript, Java, Spring Boot, Kafka, Kubernetes, Solidity and more"><title>Tech stack: React, Next.js, TypeScript, Java, Spring Boot, Kafka, Kubernetes, Solidity and more</title><style>
+.sans{font-family:'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,Inter,Ubuntu,Cantarell,'Helvetica Neue',Arial,sans-serif}
+.mono{font-family:ui-monospace,'Cascadia Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;white-space:pre}
+.fade{opacity:0;animation:fade .6s ease-out forwards}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
+</style>
+<defs>
+  <linearGradient id="s-win" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#151923"/><stop offset="1" stop-color="#0f1218"/>
+  </linearGradient>
+  <linearGradient id="s-edge" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#3a4254"/><stop offset=".5" stop-color="#232834"/><stop offset="1" stop-color="#2c3342"/>
+  </linearGradient>
+  <filter id="s-shadow" x="-20%" y="-20%" width="140%" height="160%">
+    <feGaussianBlur stdDeviation="14"/>
+  </filter>
+</defs>
+
+<rect x="10" y="10" width="880" height="352" rx="12" fill="url(#s-win)"/>
+<rect x="10.5" y="10.5" width="879" height="351" rx="11.5" fill="none" stroke="url(#s-edge)"/>
+<path d="M10 50h880" stroke="#262c38"/>
+<rect x="24" y="21" width="18" height="18" rx="5" fill="#6ee7a8" fill-opacity=".16" stroke="#6ee7a8" stroke-opacity=".5"/>
+<text x="33" y="34" text-anchor="middle" class="mono" font-size="9" font-weight="700" fill="#6ee7a8">{}</text>
+<text x="52" y="35" class="sans" font-size="12.5" fill="#8a93a6">Skills — tree ~/stack</text>
+<g stroke="#8a93a6" stroke-width="1.1" fill="none">
+  <path d="M772 30.5h10"/>
+  <rect x="814" y="25.5" width="10" height="10" rx="2"/>
+  <path d="M856 25.5l10 10M866 25.5l-10 10"/>
+</g><g class="fade" style="animation-delay:0.00s"><text x="40" y="86" class="mono" font-size="13" fill="#5c6476">~/</text><text x="60" y="86" class="mono" font-size="13" font-weight="700" fill="#60cdff">frontend</text><rect x="150" y="68" width="104" height="26" rx="13.0" fill="#60cdff" fill-opacity=".10" stroke="#60cdff" stroke-opacity=".35"/>
+<text x="202.0" y="85.5" text-anchor="middle" class="mono" font-size="12.5" fill="#60cdff">React 18/19</text><rect x="262" y="68" width="73" height="26" rx="13.0" fill="#60cdff" fill-opacity=".10" stroke="#60cdff" stroke-opacity=".35"/>
+<text x="298.5" y="85.5" text-anchor="middle" class="mono" font-size="12.5" fill="#60cdff">Next.js</text><rect x="343" y="68" width="96" height="26" rx="13.0" fill="#60cdff" fill-opacity=".10" stroke="#60cdff" stroke-opacity=".35"/>
+<text x="391.0" y="85.5" text-anchor="middle" class="mono" font-size="12.5" fill="#60cdff">TypeScript</text><rect x="447" y="68" width="81" height="26" rx="13.0" fill="#60cdff" fill-opacity=".10" stroke="#60cdff" stroke-opacity=".35"/>
+<text x="487.5" y="85.5" text-anchor="middle" class="mono" font-size="12.5" fill="#60cdff">Tailwind</text><rect x="536" y="68" width="43" height="26" rx="13.0" fill="#60cdff" fill-opacity=".10" stroke="#60cdff" stroke-opacity=".35"/>
+<text x="557.5" y="85.5" text-anchor="middle" class="mono" font-size="12.5" fill="#60cdff">MUI</text><rect x="587" y="68" width="73" height="26" rx="13.0" fill="#60cdff" fill-opacity=".10" stroke="#60cdff" stroke-opacity=".35"/>
+<text x="623.5" y="85.5" text-anchor="middle" class="mono" font-size="12.5" fill="#60cdff">Zustand</text><rect x="668" y="68" width="119" height="26" rx="13.0" fill="#60cdff" fill-opacity=".10" stroke="#60cdff" stroke-opacity=".35"/>
+<text x="727.5" y="85.5" text-anchor="middle" class="mono" font-size="12.5" fill="#60cdff">GSAP · Framer</text></g><g class="fade" style="animation-delay:0.08s"><text x="40" y="126" class="mono" font-size="13" fill="#5c6476">~/</text><text x="60" y="126" class="mono" font-size="13" font-weight="700" fill="#6ee7a8">backend</text><rect x="150" y="108" width="73" height="26" rx="13.0" fill="#6ee7a8" fill-opacity=".10" stroke="#6ee7a8" stroke-opacity=".35"/>
+<text x="186.5" y="125.5" text-anchor="middle" class="mono" font-size="12.5" fill="#6ee7a8">Java 21</text><rect x="231" y="108" width="119" height="26" rx="13.0" fill="#6ee7a8" fill-opacity=".10" stroke="#6ee7a8" stroke-opacity=".35"/>
+<text x="290.5" y="125.5" text-anchor="middle" class="mono" font-size="12.5" fill="#6ee7a8">Spring Boot 3</text><rect x="358" y="108" width="134" height="26" rx="13.0" fill="#6ee7a8" fill-opacity=".10" stroke="#6ee7a8" stroke-opacity=".35"/>
+<text x="425.0" y="125.5" text-anchor="middle" class="mono" font-size="12.5" fill="#6ee7a8">Spring Security</text><rect x="500" y="108" width="96" height="26" rx="13.0" fill="#6ee7a8" fill-opacity=".10" stroke="#6ee7a8" stroke-opacity=".35"/>
+<text x="548.0" y="125.5" text-anchor="middle" class="mono" font-size="12.5" fill="#6ee7a8">JPA · jOOQ</text><rect x="604" y="108" width="119" height="26" rx="13.0" fill="#6ee7a8" fill-opacity=".10" stroke="#6ee7a8" stroke-opacity=".35"/>
+<text x="663.5" y="125.5" text-anchor="middle" class="mono" font-size="12.5" fill="#6ee7a8">Node · NestJS</text><rect x="731" y="108" width="35" height="26" rx="13.0" fill="#6ee7a8" fill-opacity=".10" stroke="#6ee7a8" stroke-opacity=".35"/>
+<text x="748.5" y="125.5" text-anchor="middle" class="mono" font-size="12.5" fill="#6ee7a8">Go</text></g><g class="fade" style="animation-delay:0.16s"><text x="40" y="166" class="mono" font-size="13" fill="#5c6476">~/</text><text x="60" y="166" class="mono" font-size="13" font-weight="700" fill="#fbbf6a">data</text><rect x="150" y="148" width="96" height="26" rx="13.0" fill="#fbbf6a" fill-opacity=".10" stroke="#fbbf6a" stroke-opacity=".35"/>
+<text x="198.0" y="165.5" text-anchor="middle" class="mono" font-size="12.5" fill="#fbbf6a">PostgreSQL</text><rect x="254" y="148" width="73" height="26" rx="13.0" fill="#fbbf6a" fill-opacity=".10" stroke="#fbbf6a" stroke-opacity=".35"/>
+<text x="290.5" y="165.5" text-anchor="middle" class="mono" font-size="12.5" fill="#fbbf6a">MongoDB</text><rect x="335" y="148" width="58" height="26" rx="13.0" fill="#fbbf6a" fill-opacity=".10" stroke="#fbbf6a" stroke-opacity=".35"/>
+<text x="364.0" y="165.5" text-anchor="middle" class="mono" font-size="12.5" fill="#fbbf6a">Redis</text><rect x="401" y="148" width="73" height="26" rx="13.0" fill="#fbbf6a" fill-opacity=".10" stroke="#fbbf6a" stroke-opacity=".35"/>
+<text x="437.5" y="165.5" text-anchor="middle" class="mono" font-size="12.5" fill="#fbbf6a">Drizzle</text><rect x="482" y="148" width="66" height="26" rx="13.0" fill="#fbbf6a" fill-opacity=".10" stroke="#fbbf6a" stroke-opacity=".35"/>
+<text x="515.0" y="165.5" text-anchor="middle" class="mono" font-size="12.5" fill="#fbbf6a">Prisma</text><rect x="556" y="148" width="58" height="26" rx="13.0" fill="#fbbf6a" fill-opacity=".10" stroke="#fbbf6a" stroke-opacity=".35"/>
+<text x="585.0" y="165.5" text-anchor="middle" class="mono" font-size="12.5" fill="#fbbf6a">Kafka</text></g><g class="fade" style="animation-delay:0.24s"><text x="40" y="206" class="mono" font-size="13" fill="#5c6476">~/</text><text x="60" y="206" class="mono" font-size="13" font-weight="700" fill="#818cf8">cloud</text><rect x="150" y="188" width="43" height="26" rx="13.0" fill="#818cf8" fill-opacity=".10" stroke="#818cf8" stroke-opacity=".35"/>
+<text x="171.5" y="205.5" text-anchor="middle" class="mono" font-size="12.5" fill="#818cf8">AWS</text><rect x="201" y="188" width="58" height="26" rx="13.0" fill="#818cf8" fill-opacity=".10" stroke="#818cf8" stroke-opacity=".35"/>
+<text x="230.0" y="205.5" text-anchor="middle" class="mono" font-size="12.5" fill="#818cf8">Azure</text><rect x="267" y="188" width="43" height="26" rx="13.0" fill="#818cf8" fill-opacity=".10" stroke="#818cf8" stroke-opacity=".35"/>
+<text x="288.5" y="205.5" text-anchor="middle" class="mono" font-size="12.5" fill="#818cf8">GCP</text><rect x="318" y="188" width="66" height="26" rx="13.0" fill="#818cf8" fill-opacity=".10" stroke="#818cf8" stroke-opacity=".35"/>
+<text x="351.0" y="205.5" text-anchor="middle" class="mono" font-size="12.5" fill="#818cf8">Docker</text><rect x="392" y="188" width="172" height="26" rx="13.0" fill="#818cf8" fill-opacity=".10" stroke="#818cf8" stroke-opacity=".35"/>
+<text x="478.0" y="205.5" text-anchor="middle" class="mono" font-size="12.5" fill="#818cf8">Kubernetes (EKS/GKE)</text><rect x="572" y="188" width="58" height="26" rx="13.0" fill="#818cf8" fill-opacity=".10" stroke="#818cf8" stroke-opacity=".35"/>
+<text x="601.0" y="205.5" text-anchor="middle" class="mono" font-size="12.5" fill="#818cf8">CI/CD</text></g><g class="fade" style="animation-delay:0.32s"><text x="40" y="246" class="mono" font-size="13" fill="#5c6476">~/</text><text x="60" y="246" class="mono" font-size="13" font-weight="700" fill="#a78bfa">web3</text><rect x="150" y="228" width="81" height="26" rx="13.0" fill="#a78bfa" fill-opacity=".10" stroke="#a78bfa" stroke-opacity=".35"/>
+<text x="190.5" y="245.5" text-anchor="middle" class="mono" font-size="12.5" fill="#a78bfa">Solidity</text><rect x="239" y="228" width="81" height="26" rx="13.0" fill="#a78bfa" fill-opacity=".10" stroke="#a78bfa" stroke-opacity=".35"/>
+<text x="279.5" y="245.5" text-anchor="middle" class="mono" font-size="12.5" fill="#a78bfa">Ethereum</text><rect x="328" y="228" width="157" height="26" rx="13.0" fill="#a78bfa" fill-opacity=".10" stroke="#a78bfa" stroke-opacity=".35"/>
+<text x="406.5" y="245.5" text-anchor="middle" class="mono" font-size="12.5" fill="#a78bfa">Hyperledger Fabric</text><rect x="493" y="228" width="89" height="26" rx="13.0" fill="#a78bfa" fill-opacity=".10" stroke="#a78bfa" stroke-opacity=".35"/>
+<text x="537.5" y="245.5" text-anchor="middle" class="mono" font-size="12.5" fill="#a78bfa">Ethers.js</text><rect x="590" y="228" width="73" height="26" rx="13.0" fill="#a78bfa" fill-opacity=".10" stroke="#a78bfa" stroke-opacity=".35"/>
+<text x="626.5" y="245.5" text-anchor="middle" class="mono" font-size="12.5" fill="#a78bfa">Web3.js</text></g><g class="fade" style="animation-delay:0.40s"><text x="40" y="286" class="mono" font-size="13" fill="#5c6476">~/</text><text x="60" y="286" class="mono" font-size="13" font-weight="700" fill="#f472b6">ai</text><rect x="150" y="268" width="104" height="26" rx="13.0" fill="#f472b6" fill-opacity=".10" stroke="#f472b6" stroke-opacity=".35"/>
+<text x="202.0" y="285.5" text-anchor="middle" class="mono" font-size="12.5" fill="#f472b6">MCP servers</text><rect x="262" y="268" width="73" height="26" rx="13.0" fill="#f472b6" fill-opacity=".10" stroke="#f472b6" stroke-opacity=".35"/>
+<text x="298.5" y="285.5" text-anchor="middle" class="mono" font-size="12.5" fill="#f472b6">LiteLLM</text><rect x="343" y="268" width="119" height="26" rx="13.0" fill="#f472b6" fill-opacity=".10" stroke="#f472b6" stroke-opacity=".35"/>
+<text x="402.5" y="285.5" text-anchor="middle" class="mono" font-size="12.5" fill="#f472b6">Vercel AI SDK</text><rect x="470" y="268" width="104" height="26" rx="13.0" fill="#f472b6" fill-opacity=".10" stroke="#f472b6" stroke-opacity=".35"/>
+<text x="522.0" y="285.5" text-anchor="middle" class="mono" font-size="12.5" fill="#f472b6">Multi-agent</text></g><g class="fade" style="animation-delay:0.48s"><text x="40" y="326" class="mono" font-size="13" fill="#5c6476">~/</text><text x="60" y="326" class="mono" font-size="13" font-weight="700" fill="#8a93a6">testing</text><rect x="150" y="308" width="50" height="26" rx="13.0" fill="#8a93a6" fill-opacity=".10" stroke="#8a93a6" stroke-opacity=".35"/>
+<text x="175.0" y="325.5" text-anchor="middle" class="mono" font-size="12.5" fill="#8a93a6">Jest</text><rect x="208" y="308" width="66" height="26" rx="13.0" fill="#8a93a6" fill-opacity=".10" stroke="#8a93a6" stroke-opacity=".35"/>
+<text x="241.0" y="325.5" text-anchor="middle" class="mono" font-size="12.5" fill="#8a93a6">Vitest</text><rect x="282" y="308" width="96" height="26" rx="13.0" fill="#8a93a6" fill-opacity=".10" stroke="#8a93a6" stroke-opacity=".35"/>
+<text x="330.0" y="325.5" text-anchor="middle" class="mono" font-size="12.5" fill="#8a93a6">Playwright</text><rect x="386" y="308" width="134" height="26" rx="13.0" fill="#8a93a6" fill-opacity=".10" stroke="#8a93a6" stroke-opacity=".35"/>
+<text x="453.0" y="325.5" text-anchor="middle" class="mono" font-size="12.5" fill="#8a93a6">Testing Library</text><rect x="528" y="308" width="58" height="26" rx="13.0" fill="#8a93a6" fill-opacity=".10" stroke="#8a93a6" stroke-opacity=".35"/>
+<text x="557.0" y="325.5" text-anchor="middle" class="mono" font-size="12.5" fill="#8a93a6">JUnit</text></g></svg>

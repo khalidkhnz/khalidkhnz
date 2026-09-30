@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="56" viewBox="0 0 900 56" role="img" aria-label="Taskbar"><title>Taskbar</title><style>
+.sans{font-family:'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,Inter,Ubuntu,Cantarell,'Helvetica Neue',Arial,sans-serif}
+.mono{font-family:ui-monospace,'Cascadia Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;white-space:pre}
+.fade{opacity:0;animation:fade .6s ease-out forwards}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
+</style>
+<rect x=".5" y=".5" width="899" height="55" rx="12" fill="#10131a" fill-opacity=".92" stroke="#262c38"/>
+<text x="22" y="33" class="mono" font-size="12" fill="#8a93a6">Mohd Khalid Khan</text>
+<rect x="322.0" y="10" width="36" height="36" rx="8" fill="#fff" fill-opacity="0"/><text x="340.0" y="33" text-anchor="middle" class="mono" font-size="14" font-weight="700" fill="#60cdff">⊞</text><rect x="335.0" y="47" width="10" height="3" rx="1.5" fill="#5c6476"/><rect x="366.0" y="10" width="36" height="36" rx="8" fill="#fff" fill-opacity="0.07"/><text x="384.0" y="33" text-anchor="middle" class="mono" font-size="14" font-weight="700" fill="#6ee7a8">&gt;_</text><rect x="376.0" y="47" width="16" height="3" rx="1.5" fill="#60cdff"/><rect x="410.0" y="10" width="36" height="36" rx="8" fill="#fff" fill-opacity="0"/><text x="428.0" y="33" text-anchor="middle" class="mono" font-size="14" font-weight="700" fill="#fbbf6a">▤</text><rect x="454.0" y="10" width="36" height="36" rx="8" fill="#fff" fill-opacity="0"/><text x="472.0" y="33" text-anchor="middle" class="mono" font-size="14" font-weight="700" fill="#a78bfa">{}</text><rect x="498.0" y="10" width="36" height="36" rx="8" fill="#fff" fill-opacity="0"/><text x="516.0" y="33" text-anchor="middle" class="mono" font-size="14" font-weight="700" fill="#f472b6">◆</text><rect x="542.0" y="10" width="36" height="36" rx="8" fill="#fff" fill-opacity="0"/><text x="560.0" y="33" text-anchor="middle" class="mono" font-size="14" font-weight="700" fill="#7aa7ff">in</text>
+<text x="878" y="25" text-anchor="end" class="sans" font-size="12" fill="#e8ebf1">khalidkhnz.in</text>
+<text x="878" y="42" text-anchor="end" class="mono" font-size="11" fill="#8a93a6">thanks for visiting ✦</text>
+</svg>
